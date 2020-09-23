@@ -12,11 +12,11 @@ const knexInstance = knex({
 //   .then(items => console.log(items))
 //   .then( () =>
 //     ShoppingListService.insertItems(knexInstance, {
-//       name: 'New Name',
-//       price: new decimal(12,2),
-//       date_added: new Date(),
-//       checked: false,
-//       category: 'Snack'
+      // name: 'New Name',
+      // price: new decimal(12,2),
+      // date_added: new Date(),
+      // checked: false,
+      // category: 'Snack'
 //     })
 //   )
 //   .then(newItem => )
